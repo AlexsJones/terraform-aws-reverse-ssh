@@ -1,0 +1,4 @@
+#cloud-config
+packages:
+  - openssh-server
+  - openssh-clients
